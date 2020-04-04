@@ -1,4 +1,4 @@
-create table user
+create table user1
 (
 	id integer auto_increment,
 	account_id varchar(100),
